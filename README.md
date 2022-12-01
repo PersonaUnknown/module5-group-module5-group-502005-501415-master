@@ -2,7 +2,7 @@
 Eric Tabuchi (ETabuchi, ID: 501415)
 Daniel Ryu (danie1r, ID: 502005)
 
-Link: http://ec2-3-82-122-171.compute-1.amazonaws.com/~ETabuchi/Calendar/calendar.php
+Link: http://ec2-3-82-122-171.compute-1.amazonaws.com/~ETabuchi/Calendar/calendar.php (No Longer Works)
 
 List of registered users
 | Username    | Password    |
